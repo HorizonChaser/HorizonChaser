@@ -72,6 +72,10 @@
 
 <br/>  
 
+## Languages Stat
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HorizonChaser&hide=EJS,CSS)
+
 
 ## Connect with me  
 <div align="center">
