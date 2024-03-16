@@ -12,7 +12,7 @@
 
 ## Currently Working on
 
-- [HoriOS](https://horizonchaser.github.io/neo/posts/horios-part1/): a toy operating system based on UEFI and RISC-V
+- [HoriOS](https://horizonchaser.github.io/neo/posts/horios-part1/): a toy operating system based on UEFI && x86-64 (possibly RISC-V too)
   - Progress until 2024/03/08: Implemented a bootloader in UEFI
 - [MIT 6.S081](https://github.com/HorizonChaser/MIT-6.S081-24Spring): learning MIT 6.S081: Operating System Engineering by myself
   - Progress until 2024/03/08: Finished Chapter 1 (Userland Applications)
@@ -66,7 +66,7 @@
 
 ## Languages Stat
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HorizonChaser&hide=EJS,CSS&size_weight=0.2&count_weight=0.8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HorizonChaser&hide=EJS,CSS,HTML,JavaScript&size_weight=0.3&count_weight=0.7)
 
 
 ## Connect with me  
