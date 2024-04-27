@@ -22,9 +22,9 @@
 - [Horizon Chaser base gpg key](https://gist.github.com/HorizonChaser/7fc868545512cc097d21e1825db43567)
   - used until 2024/03/06
   - Key Fingerprint: `A74B 8417 2734 0185 7ACF  C223 7A85 B568 B673 827F`
-- [Horizon Chaser Base GPG Key Rev02](https://gist.github.com/HorizonChaser/d8aa1d9cceab683a730a7a364e89b337)
-  - in use since 2024/03/06, stored on a hardware security key ([CanoKey](https://www.canokeys.org/))
-  - Key Fingerprint: `0DAF 910E FB32 CB5D 6E2A  0B54 52F9 5EA2 51B0 60E8`
+- [Horizon Chaser Base GPG Key Rev03](https://gist.github.com/HorizonChaser/22f889bda0cdbe4e76d9579bc1ac7749)
+  - in use since 2024/04/26, stored on a hardware security key ([CanoKey](https://www.canokeys.org/))
+  - Key Fingerprint: `3E8F 57DC 4ECD 8DA4 8DF6  9719 94EF 096C B2DF 01C7`
 
 ## My Skill Set  
 
