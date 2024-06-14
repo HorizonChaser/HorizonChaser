@@ -1,5 +1,5 @@
 
-### <div align="center">This is HorizonChaser, a XDU graduate majored in computer science</div>  
+### <div align="center">This is HorizonChaser, a XDU student majoring in computer science</div>  
   
 - 💻 Planning to migrate from Windows to Linux (Debian or Fedora)
 - 🔨 Trying to be a full-stack engineer, including hardware perhaps
@@ -12,10 +12,8 @@
 
 ## Currently Working on
 
-- [HoriOS](https://horizonchaser.github.io/neo/posts/horios-part1/): a toy operating system based on UEFI && x86-64 (possibly RISC-V too)
+- [HoriOS](https://horizonchaser.github.io/neo/posts/horios-part1/): a toy operating system based on UEFI && RISC-V
   - Progress until 2024/03/08: Implemented a bootloader in UEFI
-- [MIT 6.S081](https://github.com/HorizonChaser/MIT-6.S081-24Spring): learning MIT 6.S081: Operating System Engineering by myself
-  - Progress until 2024/03/08: Finished Chapter 1 (Userland Applications)
 
 ## GPG Public Keys
 
@@ -28,15 +26,17 @@
 
 ## My Skill Set  
 
-<table><tr><td valign="top" width="33%">
+<table>
+<tr>
+<!-- <td valign="top" width="33%">
 
 ### Frontend  
 <div align="center">  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-</div>
+</div></td> -->
 
-</td><td valign="top" width="33%">
+<td valign="top" width="33%">
 
 ### Backend  
 <div align="center">  
