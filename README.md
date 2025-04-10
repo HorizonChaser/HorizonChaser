@@ -11,9 +11,10 @@
 <br/>  
 
 ## Currently Working on
-
-- [HoriOS](https://horizonchaser.github.io/neo/posts/horios-part1/): a toy operating system based on UEFI && RISC-V
-  - Progress until 2024/03/08: Implemented a bootloader in UEFI
+ 
+- [CMU 10-714](https://dlsyscourse.org/): Algos in DL System
+  - Progress @ 2025-04-10: Finished Lecture 2
+- [CS 149](https://gfxcourses.stanford.edu/cs149/fall21): Parallel Computing
 
 ## GPG Public Keys
 
@@ -41,7 +42,7 @@
 ### Backend  
 <div align="center">  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
+<!-- <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>   -->
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
